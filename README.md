@@ -1,1 +1,1 @@
-# FPGA-Tiny-Neural-Net
+# FPGA Tiny Neural Net
